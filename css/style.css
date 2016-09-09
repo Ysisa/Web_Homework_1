@@ -1,0 +1,27 @@
+.header {
+	background: #fff000;
+	min-height: 25pt;
+	position: relative;
+	margin-top: 10pt;
+}
+
+.header p{
+	font-size: 22pt;
+	font-family: 'Verdana';
+	font-weight: bold;
+	color: #a4a400;
+	margin: auto;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.line {
+	height: 2px;
+	border: none;
+	border-top: 3px solid #000000;
+	margin-top: 10pt;
+}
+
+.main {
+	margin-top: 10pt;
+}
