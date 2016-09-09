@@ -1,5 +1,5 @@
 .header {
-	background: #fff000;
+	background: #dddddd;
 	min-height: 25pt;
 	position: relative;
 	margin-top: 10pt;
@@ -15,13 +15,56 @@
 	text-decoration: underline;
 }
 
+.header2 {
+	background: #dddddd;
+	min-height: 25pt;
+	position: relative;
+	margin-top: 10pt;
+}
+
+.header2 p{
+	font-size: 22pt;
+	font-family: 'Century Gothic';
+	color: #a4a400;
+	margin: auto;
+	text-decoration: underline;
+}
+
+.ingredients {
+	margin-left: 20pt;
+}
+
 .line {
 	height: 2px;
 	border: none;
-	border-top: 3px solid #000000;
+	border-top: 1px solid #000000;
 	margin-top: 10pt;
 }
 
 .main {
 	margin-top: 10pt;
+	font-family: 'Georgia';
+}
+
+.QNA {
+	background: #FFFFC8;
+	min-height: 25pt;
+	position: relative;
+	margin-top: 10pt;
+	margin-left: 30pt;
+}
+
+.QNA p{
+	font-family: 'Georgia';
+	font-style: italic;
+	margin: auto;
+}
+
+.link {
+	margin-top: 10pt;
+	font-family: 'Georgia';
+}
+
+.link a{
+	color: #a4a400;
 }
