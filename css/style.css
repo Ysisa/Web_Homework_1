@@ -54,7 +54,7 @@
 	margin-left: 30pt;
 }
 
-.QNA p{
+.QNA blockquote{
 	font-family: 'Georgia';
 	font-style: italic;
 	margin: auto;
@@ -67,4 +67,13 @@
 
 .link a{
 	color: #a4a400;
+}
+
+body{
+	background-image: url(http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg);
+	background-repeat: repeat;
+}
+
+ul{
+	list-style-image: url("http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif");
 }
